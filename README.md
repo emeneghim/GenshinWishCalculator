@@ -1,3 +1,3 @@
-Calculadora de desejos desenvolvido para o jogo Genshin Impact.
+It is a simple code with no GUI to calculate "Wishes" on the game Genshin Impact
 
-Desenvolvi essa calculadora super simples com o propósito de auxiliar à mim e a meus amigos em nossa organização no jogo Genshin Impact
+It is a super simple calculator developed to personal (and some friends) use to help us organize in the game
